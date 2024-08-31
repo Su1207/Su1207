@@ -46,7 +46,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Su1207&layout=pie)](https://github.com/anuraghazra/Su1207)
 
 <h1 align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Su1207&theme=dracula&show_icons=true&hide_border=false&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Su1207&layout=pie" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su1207&layout=pie" />
 </h1>
 
 <h1 align="center">
