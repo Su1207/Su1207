@@ -12,7 +12,7 @@
  
  🔭 I’m currently looking for **Internships**
  
- 🌱 I’m currently mastering **Node, Next, TypeScript**
+ 🌱 Mastering **Node, Next, TypeScript**
 
 💬 Ask me about **Node.js, React, JavaScript... or anything**
 
