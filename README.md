@@ -44,7 +44,7 @@
 <br/>
 
 <div align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Su1207&layout=pie)]
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Su1207&layout=pie)](https://github.com/anuraghazra/Su1207)
 </div>
 
 <h1 align="center">
