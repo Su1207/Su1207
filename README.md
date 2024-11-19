@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently looking for **Internships**
+ 🔭 I’m currently looking for FTE **Software** **Developer** role
  
  🌱 Mastering **Node, Next, TypeScript**
 
