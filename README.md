@@ -12,7 +12,7 @@
  
  🔭 I’m currently looking for FTE **Software** **Developer** role
  
- 🌱 Mastering **Node, Next, TypeScript**
+ 🌱 Mastering **DevOps**
 
 💬 Ask me about **Node.js, React, JavaScript... or anything**
 
