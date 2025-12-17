@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suraj+Maheshwari!;" />
 </h1>
 
-<h3 align="center">Enthusiastic and Passionate Web Developer</h3>
+<h3 align="center">Enthusiastic and Passionate Full Stack Developer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently looking for FTE **Software** **Developer** role
+ 🔭 I’m currently working as a **Software Developer (Mahindra Group)** 
  
- 🌱 Mastering **DevOps**
+ 🌱 Mastering **System Design**
 
 💬 Ask me about **Node.js, React, JavaScript... or anything**
 
