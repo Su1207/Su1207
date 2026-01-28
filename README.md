@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a **Software Developer (Mahindra Group)** 
+ 🔭 I’m currently working as a **Software Developer (Mahindra & Mahindra Limited)** 
  
  🌱 Mastering **System Design**
 
