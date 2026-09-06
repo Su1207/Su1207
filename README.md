@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suraj+Maheshwari!;" />
 </h1>
 
-<h3 align="center">Enthusiastic and Passionate Full Stack Developer</h3>
+<h3 align="center">Software Developer | Backend/GenAI Developer</h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  
  🌱 Mastering **System Design**
 
-💬 Ask me about **Node.js, React, JavaScript... or anything**
+💬 Ask me about **Python, Fast API, Postgres, RAG, LLM, Knowledge Graphs... or anything**
 
 ⚡ Fact **If it hasn't yet, it's not the end**
 
